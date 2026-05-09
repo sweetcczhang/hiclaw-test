@@ -1,0 +1,12 @@
+{
+  "name": "backend-api-service",
+  "version": "1.0.0",
+  "description": "Simple backend API service with /api/hello endpoint",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
